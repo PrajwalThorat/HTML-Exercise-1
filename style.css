@@ -1,0 +1,39 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    text-decoration: none;
+}
+
+body {
+    width: 100%;
+}
+
+body > div.banner > img {
+    width: 960px;
+    height: 275px;
+    border: 1px;
+    border-image: ;
+}
+
+div.menu > ul >li {
+    display: inline-block;
+}
+
+div.menu > ul >li >a {
+    align-items: center;
+}
+
+div.photos >img {
+    display: inline-block;
+    width: 180px;
+    height: 200px;
+    padding: 30px;
+}
+
+section > h2 {
+    color:grey;
+}
+section > p {
+    padding-top: 30px;
+
+}
